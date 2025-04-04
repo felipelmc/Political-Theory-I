@@ -1,0 +1,38 @@
+# Teoria Política e Ciência Política
+
+## Anotações de aula
+
+### Sartori (1974)
+
+A Itália pós-guerra foi um prato cheio para um campo que estava se afirmando como ciência. É mais ou menos nesse contexto que Sartori define o que é uma "ciência" política, capaz de produzir um conhecimento científico e verificável ligado ao fenômeno da política. A Teoria Política é, para ele, o discurso pré-científico sobre a política, mas que tem um grau de racionalidade -- não necessariamente ciência.
+
+O que era chamado de Ciência Política antes disso era essencialmente derivado do Direito. Na Itália, isso é basicamente Bobbio.
+
+Sartori tenta fazer algumas distinções importantes. Primeiro, uma distinção entre Filosofia Política e Ciência Política. Para ele, Filosofia Política é basicamente um discurso evaluativo (sobre variação de valores) e normativo (a normatividade que esses valores implicam). Um discurso sobre a fundamentação normativa de valores. A Ciência, por outro lado, é descritivo e não evaluativo, com a ambição de produzir explicações causais sobre o fenômeno político. O conheciment que se propõe cientifico não pode ser evaluativo -- o esforço de produzir uma explicação não pode se confundir com a avaliação das consequências dessa explicação (ou seja, a ciência não pode ser normativa).
+
+A grande questão é que o desafio do Sartori é pensar, de maneira positivista, como é possível produzir conhecimento científico (pensando em uma visão particular de conhecimento científico) sobre o fenômeno político. O que parece que ele não alcança é que a explicação, interpretação de fenômenos políticos por excelência não são observados de modo neutro, porque eles não são dados objetivos da realidade como fenômenos naturais. 
+
+O que o Sartori chama de teoria é essa generalização de dados observáveis. Por que você cria a "Lei de Ferro das Oligarquias"? Porque você vê que organizações produzem elites. Outra teoria potencialmente generalizável é a teoria da ação coletiva -- em particular, a ideia de que os custos da ação coletiva não são divididos igualmente (o _free rider_, carona). O cara se beneficia, mas não entra na divisão dos custos.
+
+A Teoria sobre a qual o Sartori fala é (a que importa para a sua Ciência Política) é a positiva, que é a que produz generalizações a partir de dados observáveis. Mas a Teoria pode ser mais do que isso?
+
+### Warren (1989)
+
+Não é que você vá levar seus valores junto com você; antes, o fenômeno político exige interpretação. Supor a objetividade de certos fenômenos políticos é apenas isso: uma suposição (Warren, 1989). Não é uma questão dos valores do próprio pesquisador, mas sim que o fenômeno político é um fenômeno que exige interpretação que, no fim das contas, exige uma interpretação valorativa (Warren, 1989). Há uma mudança nas motivações que fazem com que os indivíduos se comportem de maneira $x$ ao invés de $y$. 
+
+> Então, mesmo quando você faz um survey e questiona a preferência eleitoral do eleitor, esse índice é fruto de um processo social complexo que você não consegue observar como um dado objetivo. A capacidade de generalização dessa teoria positiva é, frequentemente, limitada. O grau de explicação é limitado porque pode haver mudanças no mundo social que não são capturadas objetivamente. A lei da gravidade não é uma categoria disputada; raça é -- ela não existe no mundo social por si só.
+
+A observação dos fenômenos políticos não é imediata. Ela acontece por intermediação de informações que, no fim das contas, são _proxies_ para o fenômeno que você quer observar. Por exemplo, observar o conceito de voto econômico não é algo direto. Beleza, a alta do custo de vida é um fator que pode influenciar o voto econômico. Mas a percepção do custo de vida é mediada por uma série de fatores que não são diretamente observáveis. A ideia é que o cenário é mais complexo de ser interpretado do que o dado observável. Se o índice muda de um dia pro outro, você não vai entender porque ele mudou se você não aprofunda o estudo de um determinado fenômeno.
+
+O texto do Warren vai defender não só a importância da Teoria, mas vai defender que a Teoria faz certas coisas que não podem ser esgotadas sem ela. O primeiro ponto tem a ver com a construção de sentido: é a teorização que dá sentido à própria pesquisa empírica. Você pode até reformular a teoria a partir da pesquisa empírica, mas a teoria é o que dá sentido à pesquisa empírica. Além disso, assim como em Warren, a teoria é o que permite a generalização de fenômenos observados.
+
+Através do discurso, a teoria produz efeitos no mundo. É claro, não esperamos que todos os liberais de internet tenham lido Hayek de cabo a rabo, mas esse discurso incute uma série de valores que são reproduzidos de uma maneira ou de outra.
+
+### Vincent (2004)
+
+Se a gente tem uma teoria que é normativa, ela também dá o caminho para interpretar como os conceitos são disputados ao longo da história -- a teoria histórica, conforme Vincent (2004). A abordagem histórica da teoria é a ideia de entender como certos sentidos são construídos e disputados.
+
+- Teoria normativa (TP1)
+- Teoria histórica (TP1)
+- Teoria empírica (TP2)
+- Teoria crítica
