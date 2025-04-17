@@ -11,6 +11,8 @@ book:
       chapters:
         - aulas/aula-1.qmd
         - aulas/aula-2.qmd
+        - aulas/aula-3.qmd
+        - aulas/aula-4.qmd
         
 format:
   html:
