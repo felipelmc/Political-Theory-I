@@ -14,6 +14,7 @@ book:
         - aulas/aula-3.qmd
         - aulas/aula-4.qmd
         - aulas/aula-5.qmd
+        - aulas/aula-6.qmd
 format:
   html:
     theme: 

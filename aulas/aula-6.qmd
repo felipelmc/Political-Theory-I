@@ -1,0 +1,169 @@
+# Maquiavel II
+
+Confesso que, para esta aula, não tive tempo de ler cada um dos textos no detalhe. Para facilitar, utilizei o NotebookLM 
+para gerar um resumo a partir da íntegra dos textos.
+
+## LEFORT, Claude. O trabalho da Obra Maquiavel (Parte III, capítulo 7; parte IV, capítulo 2).
+
+O texto que você forneceu é composto por excertos de um trabalho de Claude Lefort sobre a obra de Maquiavel, especificamente uma seção sobre a interpretação de Antonio Gramsci ("A primeira figura da filosofia da práxis") e outra sobre a lógica da força em Maquiavel ("Sobre a lógica da força"). O material não está dividido em capítulos no sentido convencional dentro desses excertos, mas sim em duas grandes seções. Vou apresentar um resumo baseado nessas duas seções principais.
+
+### **Seção 1: A primeira figura da filosofia da práxis: Uma interpretação de Antonio Gramsci**
+
+Esta seção explora e critica a interpretação marxista de Antonio Gramsci sobre a obra de Maquiavel.
+
+**Posição de Gramsci**: Gramsci é visto como um pensador marxista que busca ler o sentido da obra de Maquiavel na história em que ela acontece. Sua análise é comandada por uma teoria da história não dissimulada, focando na função do discurso maquiaveliano no seio do discurso social, determinado pelas condições econômicas e pela luta de classes.
+
+**Gramsci como Intérprete Marxista**: Gramsci elabora uma interpretação marxista da obra de Maquiavel. Para entendê-lo, é preciso compreender o que ele precisa dizer de sua posição marxista e o que acontece com Maquiavel e Marx em seu discurso.
+
+**Função da Obra de Maquiavel (Segundo Gramsci)**: A obra de Maquiavel é vista como um produto da **classe burguesa emergente** que busca se libertar do feudalismo e necessita de um poder para defender seus interesses. Mas é, simultaneamente, um **órgão de produção** dessa aspiração e necessidade. Gramsci, como pensador marxista, não reduz a obra a um mero efeito das condições econômicas; ele lhe atribui **eficácia social e histórica**. Ele sugere que a teoria (marxista) só é teoria participando da produtividade social e histórica.
+
+**Filosofia da Práxis**: Falando do marxismo como filosofia da práxis, Gramsci convida a decifrar nos produtos da sociedade e cultura (como a obra de Maquiavel) os signos de uma mesma **produtividade**.
+
+**Estatuto e Sentido do Discurso**: Para Gramsci, a questão do estatuto e sentido da obra se resolve ao vincular seu 
+**objeto** (realidade política) ao seu **destinatário**. A crítica tradicional erra ao separar o objeto do destinatário. Gramsci questiona a ideia de que *O Príncipe* se dirige aos tiranos, pois um discurso que visa o real não necessariamente quer ser ouvido por eles. A questão é quem na cena social pode pautar sua ação e pensamento pelos **princípios do realismo**, quem pode se **apropriar** do discurso.
+
+**O Destinatário de Maquiavel (Segundo Gramsci)**: Gramsci argumenta que Maquiavel não se dirige à classe dominante/tiranos, pois o realismo deles é secreto e limitado pela necessidade de manter a ficção da lei e da justiça. Eles vivem em uma "meia mentira". Maquiavel se dirige àqueles que o poder cega, que não compreenderam que ele está a seu alcance, ou seja, as **massas** ou a **burguesia emergente** que precisam fazer "tábula rasa das ideologias" para cumprir sua tarefa histórica. *O Príncipe* tem uma **função revolucionária** ao interpelar homens mistificados.
+
+**A Função Revolucionária de *O Príncipe***: A estrutura da obra, especialmente o último capítulo, indica seu objetivo. A exigência prática funda a teórica. A exortação para liberar a Itália se dirige a um **príncipe novo**, um homem de *virtù* sem tradição dinástica, que precisa da convicção de que o povo estará ao seu lado. Maquiavel diz a esse príncipe que, se quiser o poder, terá a massa com ele, pois a massa quer esse poder. A invocação de um "homem da providência" é um apelo real à burguesia italiana para que tome consciência de si e se reúna em uma **vontade coletiva**.
+
+**Paralelo Histórico e o Príncipe Moderno**: Gramsci vê o realismo popular esboçado por Maquiavel reaparecer em movimentos como o jacobinismo e o bolchevismo. Neles, chefes (indivíduos ou o partido de massa) encarnam o príncipe, guiando a vontade coletiva, mesmo que isso contrarie a moral tradicional. O partido de massa ocupa a **função principesca** na sociedade moderna. O "príncipe moderno" (o partido) perturba o sistema moral, tornando-se o **fundamento de um laicismo completo**, tomando o lugar da divindade ou do imperativo categórico.
+
+**Maquiavel e Marx**: Maquiavel e Marx, cada um a seu tempo, expressaram a filosofia da práxis. Marx descobriu a realidade social como práxis em todos os níveis (produção, luta de classes, ideologias). A obra maquiaveliana é vista como uma **prefiguração** do ensinamento de Marx. Realidade como práxis significa presente como tarefa, conhecimento ligado à transformação, bem/mal definidos pela ação revolucionária, e a **política como a realidade acabada**. A política revolucionária, embora baseada na luta de classes, tem uma ordem específica com suas próprias leis de relações de força, impondo meios que não se conciliam imediatamente com os fins.
+
+**O Realismo Popular e Político**: A filosofia da práxis articula realismo popular (massas confiam em quem pode fazer a revolução) e realismo político (dirigentes devem obter consenso). A obra teórica (como *O Príncipe*) revela sua eficácia prática nessa relação dialética, convocando a vontade coletiva a se expressar na vontade dos dirigentes e ensinando as massas a julgar os líderes pelos atos. O pensamento realista é um momento necessário para o advento da realidade, assegurando a passagem do realismo popular ao realismo político.
+
+**Crítica à Interpretação de Gramsci**: A seção critica a posição de Gramsci. Ele recusa a distinção sujeito/objeto de conhecimento, entendendo Maquiavel por compartilhar sua exigência de saber/agir. Essa posição é homóloga àquela que Gramsci atribui a Maquiavel diante da burguesia e a Marx diante do proletariado. Essa recusa do objetivismo permite a Gramsci ligar Maquiavel à emancipação de classe. Gramsci também critica a representação tradicional da história, apagando a distância entre presente e passado, mas sem eliminar a diferença (burguesia vs. proletariado).
+
+**Gramsci como Mediador**: Gramsci aparece como um **mediador**. Sua interpretação realiza um "montagem de mediações" (Ser mediado pelo conhecimento, classe pela política, totalidade pela teoria, História pela interpretação). Contudo, ser o mediador significa realizar a não-diferença.
+
+**Problema da Leitura (Gramsci)**: A interpretação de Gramsci reduz o discurso de Maquiavel a uma **mensagem** para um destinatário específico (a burguesia), negando a complexidade da obra. Ao determinar o destinatário *a priori* com base na análise externa da luta de classes, ele apaga o próprio discurso. Isso coloca o intérprete (Gramsci) em uma posição de **poder despótico** sobre a obra, fugindo da "prova da leitura" e da indeterminação de sua própria posição.
+
+**Restauração das Oposições Tradicionais**: Apesar de sua crítica inicial, a interpretação de Gramsci acaba restaurando oposições que ele pretendia abolir: sujeito/objeto (o intérprete constrói a imagem do texto), representação tradicional da História (identificação do destinatário como a burguesia domestica a diferença temporal), e teoria/práxis (teoria é reduzida à função prática, mas tratada como ideia transparente, e a prática do intérprete não é justificada). A práxis está ausente da filosofia da práxis de Gramsci neste sentido.
+
+**Violência sobre o Discurso**: A definição de Maquiavel como "realismo" por Gramsci é vista como uma violência sobre a obra, usando uma tese da crítica tradicional que já amputava e falsificava o texto (reduzindo política a força/técnica). Gramsci utiliza essa base falha, mostrando que sua filosofia da práxis, apesar de inverter conclusões, permanece submetida às premissas subjetivistas/objetivistas.
+
+**Contradição na Tese do Realismo de Gramsci**: A tese articula uma história em si (lógica de forças/produção) e uma história para si (auto-realização do sujeito revolucionário), gerando contradições. Dizer que Maquiavel se dirige *tanto* ao príncipe *quanto* à burguesia implica que Maquiavel detém um "saber absoluto" ou a "astúcia da razão", o que contradiz o próprio Gramsci e a crítica marxista a Hegel. Se Maquiavel não tem esse saber absoluto, ele está preso na ilusão burguesa da política pura. Gramsci não pode aceitar isso plenamente porque impede a resolução da contradição entre a teoria marxista e a prática dos partidos comunistas (classe emancipada vs. partido como príncipe ocultando saber). Isso leva a um dilema onde o partido/órgão de poder ou tem todo o saber (tornando a teoria supérflua e contraditória, exigindo silêncio) ou o teórico tem o saber (tornando o discurso contraditório, exigindo que o teórico esconda sua pretensão à onipotência por trás do papel de mediador).
+
+### **Seção 2: Sobre a lógica da força**
+
+Esta seção analisa o início de *O Príncipe*, focando na abordagem de Maquiavel sobre o poder e a estabilidade dos Estados, contrastando-o com o pensamento político tradicional.
+
+**Início Abrupto de *O Príncipe***: Maquiavel começa classificando os Estados em "repúblicas ou principados". Este início é abrupto e contrastante com a tradição clássica e cristã, que começava com considerações filosóficas, morais ou religiosas. O silêncio de Maquiavel sobre esses temas sugere que eles deixaram de ser pertinentes ou convida o leitor a questionar seu sentido.
+
+**A Questão Central de Maquiavel**: A reflexão política é comandada pela questão de "por quais maneiras [os principados] podem ser governados e conservados". Embora a formulação não seja totalmente nova, seu contexto a torna inteiramente nova. Ela surge de um mundo não ordenado pela tradição, onde pensador e agente se tornam sujeitos garantindo sua própria atividade.
+
+**Perspectiva e Objeto**: A linguagem maquiaveliana ("governar e conservar") atesta uma ambiguidade; as operações originam-se do príncipe, mas este também é posto em situações pelo simples fato de o Estado existir. Nem príncipe nem Estado são a origem única; o foco é o **espaço instituído** entre eles. Maquiavel classifica os Estados da perspectiva do príncipe.
+
+**O Conceito de *Imperio***: Sujeito e objeto juntos apontam para o **Poder**, o *imperio*, como objeto de pensamento. *Imperio* é o poder exercido sobre os homens e o que se estabelece acima deles em sua generalidade, ordenando suas relações no Estado.
+
+**Análise do Principado Hereditário (Capítulo 2)**: Começar por ele (Capítulo 2) não é por ser o mais fácil, mas para indicar o **método**. Ele confronta o leitor com um exemplo tradicionalmente visto como legítimo e pacífico. Ao associá-lo à conquista (ex: Luís XII), Maquiavel liga paz e guerra.
+
+**Aparência e Realidade do Principado Hereditário**: Inicialmente, parece que basta manter princípios antigos e ser hábil. O termo "príncipe natural" ecoa a tradição que via a monarquia como inscrita no costume/natureza. Até a ideia do retorno do príncipe expulso lembra a física aristotélica. Mas Maquiavel **inverte a perspectiva**. A segurança vem de **não precisar ofender**. Antiguidade abole a lembrança da origem e razões para mudança. Ser "mais amado" significa "menos odiado". A estabilidade deriva da **habituação à opressão**; a permanência do dominante enfraquece a resistência.
+
+**Estabilidade como Fruto do Conflito**: A estabilidade se esclarece pela oposição príncipe-súditos, não por acordo social. Deve ser pensada em função de uma instabilidade e violência iniciais. O "príncipe antigo" explora o êxito de um "príncipe novo". A diferença entre regimes é de **grau** em relação aos adversários. O que é "natural" é a passagem de um movimento rápido/violento (conquista) para um lento/conservador. As mesmas causas explicam permanência e mudança ("uma mudança sempre deixa as bases para uma nova mudança").
+
+**Política como Campo de Forças**: A distinção entre príncipe antigo/novo, costume/inovação, leva a imaginar a política como um **campo de forças** que busca equilíbrio. A conquista é privilegiada por tornar visível o problema: resistir aos adversários gerados. As ações do príncipe são determinadas pelo **estado de guerra**. A política é uma **estratégia**.
+
+**Duplo Caráter da Ação (Capítulo 3)**: A guerra política não é violência pura. O príncipe não triunfa só pela força, precisa se manter. Sua ação tem um **duplo caráter**: no sentido da **maior** e **menor violência**. Ex: extinguir linhagem antiga vs. evitar inovações em leis/impostos. Morar no local conquistado vs. instalar colônias. Concilia vencer pela força e ter a força reconhecida. A fórmula é "ou ser acariciados ou mortos", mas na prática é **matar uns e acariciar outros pela mesma razão**: a lógica das relações de força.
+
+**Lógica das Relações de Força**: Maquiavel associa política interna e externa, tratando relações príncipe-súditos como entre Estados: baseadas no **interesse**. A força se determina dentro do campo onde se inscreve. É preciso **impor-se e compor**. A estratégia se inspira unicamente na **conservação ou aumento de potência**.
+
+**Potência como Observação**: O termo "potência" é usado positivamente. Não é apologia, mas observação. O desejo de conquistar ser "natural" é um **fato observado**, não um julgamento moral. O que importa é a **constelação de fatos** e suas relações de causa/efeito. O desejo de conquistar é "natural" como outros desejos políticos; esclarece-se como **modalidade de experiência política** implicada por outras, arrastada por uma **necessidade**. Isso se vê na análise de Roma e França.
+
+**O Observador como Calculador**: Maquiavel se posta como puro observador e, consequentemente, puro calculador. Observar e calcular são o mesmo; dados empíricos são combinações de termos/relações com paralelos históricos. A história fornece uma **ordem das coisas** – experiência ordenada em si, com linhas de força constantes.
+
+**Príncipe como Agente e Inteligência**: O príncipe é um ator determinado pelas exigências da situação, cuja potência é inseparável da inteligência sobre as relações de potência. Ele deve reconhecer essa ordem, resistir a meios de curto prazo que se voltam contra ele, **libertar-se da contingência dos fatos e de seus próprios motivos**.
+
+**Coincidência Teórico/Ator**: A posição do teórico e a do ator **coincidem**, embora parcialmente. O teórico abrange a história, o ator evolui em situação finita. Mas o teórico raciocina sobre o passado; o príncipe pensa o universal no particular, experimenta o cálculo infinito. Maquiavel, ao afirmar a permanência do conflito, mostra a função do príncipe como **racionalização continuada da experiência**. A teoria ensina que teoria e prática não se confundem.
+
+**Superação da Antinomia Clássica**: O pensamento maquiaveliano se liberta da distinção essência/existência. Não há mais a alternativa entre saber (esquecendo o ser) e fazer (tornando o nomear ridículo). Na história só há o que aparece: ações, acontecimentos. O que aparece tem sentido, é linguagem (relações). O existente não é fato bruto; o príncipe é apreendido em sua **realidade histórica**. Sua identidade importa menos que sua posição numa rede de relações, portador de necessidade. O real se desvela como lugar de operações; as **fronteiras do real são as fronteiras do racional**.
+
+**Crítica do "Tempo"**: O leitor aprende que não basta temporizar com os acontecimentos ("gozar as vantagens do tempo"), pois o tempo aniquila tudo. O poder do sujeito (virtù e prudenzia) afirma-se sobre a capacidade de determinar ordem nos acidentes. Exemplos de fraca potência baseada no passado são substituídos pelos romanos que edificaram império apoiando-se no futuro.
+
+**Limites da Ação Individual e Classificação de Estados (Capítulo 4)**: Uma digressão (sobre Alexandre) mostra que condições objetivas determinam o resultado, não só a inteligência do príncipe. Maquiavel classifica os principados em despóticos ou partilhados com barões. A solidez se mede pela resistência à agressão. O regime despótico parece mais forte inicialmente (autoridade una), mas o monarquia com barões (regime aparentemente vulnerável) se revela **mais resistente** ao longo do tempo. A autoridade que se adapta é mais forte que a dominação sem freios. A potência encontra medida na relação com outras potências. Esta análise leva ao estudo das **estruturas sociais**.
+
+**Força do Regime Republicano (Capítulo 5)**: Maquiavel evoca a força da república cautelosamente. Embora sugira destruí-la ao conquistar, a ideia nova é que as repúblicas são mais sólidas porque os **cidadãos estão acostumados à liberdade**. Isso sugere que a lógica das relações de força favorece a **distribuição do poder** e um sistema de intercâmbio entre governantes/governados.
+
+**Procedimento do Escritor**: Maquiavel usa o exame de casos para introduzir considerações gerais (oposição príncipe/súditos, relações entre Estados, força dos regimes). Ele opõe imagens tradicionais (estabilidade, tempo que conserva, ordem natural, amor) a novas (movimento, tempo que aniquila, acidentes, opressão). Mas retorna a ideias como economia da potência, afeição natural (como hábito à opressão), poder distribuído, constelações estáveis.
+
+**Fundação do Estado (Capítulo 6)**: Entra em nova fase; a ação do fundador institui o príncipe e dá unidade ao povo. O exame do fundador (Moisés, Ciro, Rômulo, Teseu) parece destinado a esclarecer a natureza do Estado/Poder em geral.
+
+**O Fundador: *Virtù*, Força e Crítica à Tradição**: Inicialmente, a fundação é apresentada como obra da *virtù*, oposta à Fortuna, capaz de impor forma à matéria e com conotações morais. Mas essa imagem é abandonada. Fundadores são **forçados** a introduzir novas ordens para segurança. É uma tarefa difícil e perigosa. Eles têm inimigos nos que lucravam com a ordem antiga e defensores mornos nos que se beneficiarão da nova. Os homens desacreditam no novo e são inconstantes. O problema se torna impor obediência. A posição do fundador se aproxima do conquistador.
+
+**Fé vs. Força e Savonarola**: Neste ponto, fé e força são opostas. A crítica dos profetas desarmados (Savonarola) é ilustrada. A oposição *virtù*/Fortuna se transforma em auto-suficiência vs. dependência do Outro, autonomia vs. dependência de Deus. A apologia da força serve para **libertar do mito de uma história regulada pela Providência**. Savonarola é sobreposto a Moisés; a política de Moisés é restituída à sua "realidade".
+
+**Interrogação Radical**: Maquiavel convida o leitor a uma **interrogação radical** sobre os fundamentos da política, proibindo o apoio em verdades tradicionais. A questão última é como conceber/estabelecer o Estado se o fundador está só, se a natureza não garante, se os homens resistem à comunidade, se a Providência é ilusória. Maquiavel indica essa questão indiretamente. O exemplo de Savonarola, que se dirigia aos mesmos interlocutores e propunha *ordini nuovi*, aponta para a necessidade de um **pensamento novo**. Maquiavel substitui o ensinamento do profeta vencido pelo seu próprio, usando **ironia** para subverter as ideias de Savonarola sobre fé, oração, príncipes verdadeiros e resistência.
+
+**Conhecimento Enraizado num Não Saber**: Maquiavel não oferece uma nova verdade oposta, mas exige pensar a política em certo nível. O saber está enraizado num **não saber**. A análise da fundação revela incerteza sobre o fundamento do saber. O apelo a um conhecimento exato e prática submissa a ele ressoa em um **vazio deliberadamente organizado** em torno de novos conceitos, no lugar onde o pensamento se assegurava em uma ordem divina ou natural.
+
+## McCormick, John. Machiavellian Democracy (Introdução, capítulos 6 e 7).
+
+Com base nos excertos fornecidos dos capítulos "Introduction", "6 Republicanism and Democracy" e "7 Post-Electoral Republics and the People’s Tribunate Revived", posso gerar resumos para essas seções. O documento não contém os capítulos 1 a 5 na íntegra, portanto não é possível resumi-los individualmente.
+
+Aqui estão os resumos dos capítulos incluídos nos excertos:
+
+### **Introdução**
+
+A Introdução aborda o problema da **influência da desigualdade económica nas democracias contemporâneas**, especialmente nos Estados Unidos, e a incapacidade de instituições modernas em **prevenir a dominação governamental pelos cidadãos ricos**. O autor escava técnicas além das eleições usadas em repúblicas antigas, medievais e renascentistas para conter elites e magistrados públicos. Utiliza os escritos de Niccolò Machiavelli, particularmente os **Discursos sobre a Primeira Década de Tito Lívio**, como porta de entrada para recuperar práticas esquecidas de responsabilização de elites, como:
+
+- Cargos ou assembleias com poder de veto ou legislativo que excluem os cidadãos mais ricos.
+- Procedimentos de nomeação de magistrados que combinam sorteio e eleição.
+- Julgamentos políticos onde a cidadania inteira atua como juiz final.
+
+O texto argumenta que a principal e original sugestão política de Machiavelli é **como o povo comum pode controlar as elites**, contrariamente à percepção comum de que *O Príncipe* ensina os governantes a manipular o povo. Machiavelli é apresentado como mais popularmente participativo e capacitador do que o republicanismo em geral e a democracia praticada hoje.
+
+Machiavelli estava especialmente atento aos motivos e comportamentos dos membros mais privilegiados ("grandi", "nobili", "ottimati"), impulsionados por um **apetite insaciável por opressão**, acumulação de riqueza, monopolização de cargos e busca de renome. Eles valorizam bens materiais muito mais do que reputação. Machiavelli **distingue nitidamente os *grandi* do *popolo*** (plebeus, "o povo"), cujo principal desejo é **evitar ser oprimido pelos *grandi***. O povo é naturalmente inclinado a evitar a opressão. A conduta ambiciosa dos ricos inflama no povo o desejo de possuir mais, seja por vingança ou para obter meios de se defender.
+
+Machiavelli considera que **o juízo dos povos livres raramente é pernicioso à liberdade** e que a indignação popular é quase um bem inequívoco, essencial para a liberdade da república. Ele elogia os tumultos em Roma e a criação de instituições como os **tribunos da plebe e julgamentos políticos populares** para controlar a insolência dos *grandi*.
+
+Em contraste, republicanos florentinos como Rucellai e Guicciardini aspiravam a um modelo oligárquico veneziano (*governo stretto*), onde as decisões importantes eram dominadas por uma elite. Guicciardini acreditava que os cidadãos comuns deveriam eleger os "melhores cidadãos" para cargos, mas geralmente não deveriam ocupá-los eles próprios. Machiavelli, por outro lado, defendia um modelo romano reconstruído e democratizado (*governo largo*) onde os cidadãos comuns pudessem acusar funcionários, exercer poder de veto, discutir e votar diretamente na legislação e julgar crimes políticos. O tribunado plebeu é visto como central nas prescrições de Machiavelli, tornando a constituição romana "quase perfeita".
+
+O texto critica a Escola de Cambridge (Skinner, Pocock) por distorcer Machiavelli, apresentando-o como porta-voz do republicanismo tradicional e subestimando seu foco no conflito de classes e nas instituições para o controlo popular. Argumenta que a originalidade de Machiavelli reside justamente em seus desvios da tradição republicana, que tendia a reforçar o elitismo. Guicciardini é descrito como o "pai em grande parte não reconhecido da democracia moderna entendida como oligarquia eletiva", onde as eleições permitem o domínio indireto do povo ao escolher as elites para o domínio direto.
+
+Comparando constituições pré- e pós-século XVIII, observa-se que as tradicionais frequentemente possuíam uma conceção binária de "o povo" (corpo cívico total vs. maioria não-elite), enquanto as modernas adotam uma visão unitária e socioeconomicamente anónima. Machiavelli **endossa explicitamente instituições específicas de classe** para promover a consciência de classe e a contenção, essenciais para a participação popular e a responsabilização eficaz. Instituições anónimas de classe nas democracias modernas reforçam a disposição passiva do povo e permitem que as elites sigam seus instintos opressores.
+
+Machiavelli não separa a participação popular da responsabilização da elite; elas estão interligadas. Instituições como os tribunos e os julgamentos políticos populares combinam elementos que promovem ambos.
+
+### **Capítulo 6: Republicanismo e Democracia**
+
+Este capítulo inicia contrastando as visões de Machiavelli e Guicciardini sobre a participação popular nas assembleias. Alerta que a linguagem do "republicanismo", ao propor um "bem comum" não totalmente alcançável pela ampla participação, **tem um legado duvidoso, muitas vezes justificando golpes oligárquicos** ou a consolidação do poder das elites.
+
+As principais correntes da teoria republicana, de Aristóteles a Madison, consistentemente **capacitaram as elites económicas e políticas sobre os cidadãos comuns** e as isolaram do alcance do povo. O republicanismo clássico dava preeminência a corpos de elite (senados), enquanto o moderno permite que a população selecione via eleição indivíduos para governar. Historicamente, o republicanismo restringiu a democracia. Machiavelli, por outro lado, concebeu a participação popular de forma mais ampla e buscou limitar as elites mais estritamente.
+
+Filósofos republicanos históricos (Cicero, Bruni, Guicciardini) advogavam a minimização da participação popular, levando a resultados políticos que **não correspondiam ao bem comum percebido pela maioria** e, a longo prazo, ao colapso dos regimes. Cicero, por exemplo, defendia o monopólio da decisão política pelo senado e a manipulação dos tribunos, o que não serviu ao bem comum e contribuiu para as guerras civis romanas. Bruni e Guicciardini também apoiaram oligarquias em Florença que limitaram a participação popular e falharam em resolver conflitos internos, preparando o cenário para a tirania Médici. Esses filósofos-estadistas republicanos também justificaram a dominação de suas repúblicas sobre outros regimes.
+
+O texto então examina a teoria do republicanismo de Philip Pettit, centrada na **liberdade como não-dominação**. Dominação é definida como a mera ameaça de interferência arbitrária, mesmo que não ocorra de facto. Pettit, seguindo Skinner, tende a **minimizar a participação popular** e a associar Machiavelli a uma conceção "negativa" de liberdade (não-dominação), em contraste com uma conceção "positiva" ligada à autodeterminação democrática e à participação. No entanto, Machiavelli, embora valorize o desejo do povo de não ser dominado, também justifica e encoraja sua contestação ativa às elites, argumentando que o apetite de dominação das elites torna necessárias salvaguardas extra-eleitorais e participação antagónica.
+
+Machiavelli prescreve várias formas de participação popular, incluindo competição por cargos, instituições específicas de classe, apelações, condenação de oficiais, deliberação direta em assembleia e partilha de riqueza/honras. O foco estreito de Pettit nas eleições negligencia essas práticas mais intensivas.
+
+Pettit restringe a participação popular principalmente à eleição de representantes ("dimensão autoral"). Ele endossa meios "contestatórios" (judiciários, tribunais, ombudsmen, câmaras altas) para desafiar políticas ("dimensão editorial"). No entanto, Pettit não concede a esses agentes contestatórios, como os ombudsmen, a autoridade de veto nem os concebe especificamente para representar os cidadãos comuns como grupo. Ele tende a reservar a contestação para indivíduos e grupos minoritários, assumindo que as maiorias são adequadamente servidas pelas eleições.
+
+Embora Pettit defenda a proteção de minorias vulneráveis (sugerindo, por exemplo, assentos reservados em parlamentos), essas medidas afetam principalmente a deliberação, não as decisões legislativas de forma vinculativa. Tais arranjos **não replicam o poder de decisão** dos tribunos romanos ou das quotas de guilda florentinas. O foco de Pettit na representação de minorias contrasta com seu tratamento superficial da desigualdade económica ou de classe, que ele aborda de forma interrogativa em vez de prescritiva. Sua abordagem coloca o ónus da iniciativa nos indivíduos ou grupos, em competição com oponentes com mais recursos.
+
+As instituições contestatórias de Pettit assemelham-se mais a instituições contra-majoritárias (câmaras altas, tribunais superiores) que têm sido **suscetíveis à captura por elites económicas**, do que a instituições populares como o tribunado romano.
+
+Pettit sugere "fóruns despolitizados" (comissões de especialistas) para questões políticas sensíveis, isolando-as do julgamento popular. A justificação para a imparcialidade desses especialistas é a busca por reputação e estima entre pares, não perante o público em geral. Machiavelli criticava "os escritores" por confundir opinião popular com julgamento popular; ele argumenta que as assembleias formais disciplinam o povo, levando a juízos sólidos. Pettit reconhece que grupos de cidadãos comuns podem tomar decisões informadas após deliberação, mas só lhes concederia um papel consultivo, não decisório vinculativo. Machiavelli, por outro lado, confia mais no povo do que nas elites para tomar decisões conducentes ao bem comum e punir ameaças à liberdade.
+
+Pettit redefine "democracia" para excluir o controlo popular direto, enquanto Machiavelli insiste em arranjos institucionais para que o povo refina e amplie suas próprias opiniões, em vez de depender de representantes para fazê-lo. O capítulo conclui que o republicanismo tradicional e a teoria de Pettit marginalizam a participação popular e capacitam elites, enquanto Machiavelli oferece um modelo para prevenir a dominação das elites através da participação ampla e instituições específicas de classe. Historicamente, a democracia compensa politicamente o povo comum por sua falta de recursos, enquanto o republicanismo, em geral, salvaguarda o privilégio das elites.
+
+### **Capítulo 7: Repúblicas Pós-Eleitorais e o Tribunado do Povo Revivido**
+
+Este capítulo começa notando como **James Madison redefiniu repúblicas com base na representação eleitoral e a "exclusão total do povo em sua capacidade coletiva"** do governo. Isso abandonou características de governos populares anteriores, como magistraturas específicas de classe, métodos imparciais de seleção e procedimentos de deliberação/decisão direta. A justificação de Madison não era a escala dos regimes, mas a crença de que as eleições em grandes territórios produziriam os "melhores" estadistas, o que prenunciou a pacificação da democracia moderna.
+
+O modelo eleitoral contemporâneo é criticado por **não conseguir manter as elites políticas responsáveis e responsivas** ao público em geral e por negligenciar o combate à influência desproporcional dos ricos. O capítulo propõe uma intervenção no debate contemporâneo sobre reformas para melhorar esta situação, adotando uma perspetiva americana, mas aplicável a outros contextos.
+
+Os capítulos anteriores analisaram instituições alternativas de governos populares pré-modernos. Este capítulo apresenta uma tipologia de regimes baseada em misturas de sorteio e eleição na nomeação/nomeação de magistrados e propõe uma **instituição hipotética de responsabilização de elites** a ser adicionada à Constituição dos EUA: **um tribunado revivido**.
+
+A tipologia de regimes baseada em sorteio e eleição inclui:
+- **Democracia (1, A):** Sorteio para nomeação e sorteio para nomeação. Assegura participação equitativa.
+- **República (1, B):** Sorteio para nomeação e eleição para nomeação. Regime misto ambíguo.
+- **República Oligárquica (2, b, B):** Nomeadores eleitos, candidatos eleitos, nomeação por eleição geral. Essencialmente domínio de elite, mesmo com sufrágio universal. **Governos representativos modernos se encaixam nisso**.
+- **Oligarquias (2, c, B), (2, c, A):** Candidatos nomeados por uma assembleia superior/comité de elites. O sorteio ou eleição final ocorre a partir de uma lista já restringida por elites.
+
+Os regimes mais interessantes do ponto de vista Machiaveliano são aqueles que combinam sorteio e eleição de forma a empoderar o povo.
+
+A democracia representativa contemporânea sofre de dois defeitos: a **ausência de meios extra-eleitorais para responsabilização de elites** pelo cidadão comum (vetos, acusações, plebiscitos) e a **falta de uma distinção formal e de instituições correspondentes entre elites e cidadãos comuns**. As noções de "republicanismo cívico" que enfatizam a unidade social em vez do conflito de classes legitimaram formas oligárquicas.
+
+Constituintes modernos abandonaram a especificidade de classe, talvez devido à crença num pluralismo emergente (Madison), à soberania unitária ou à fé na imprensa livre. No entanto, Machiavelli notou que as elites têm vantagens no controlo da informação. Institucionalizar as disparidades de poder pode tornar o povo mais consciente delas, fomentando a agitação necessária para uma república livre e estável, em contraste com a noção unitária de "povo soberano" que pode induzir isolamento das elites e inércia popular.
+
+Minipúblicos (assembleias de cidadãos, júris deliberativos) são sugeridos como equivalentes modernos das assembleias formais onde o povo deliberava
