@@ -166,9 +166,9 @@ Constituintes modernos abandonaram a especificidade de classe, talvez devido à 
 
 Minipúblicos (assembleias de cidadãos, júris deliberativos) são sugeridos como equivalentes modernos das assembleias formais onde o povo deliberava
 
-### **Anotações de aula**
+## **Anotações de aula**
 
-#### Lefort
+### Lefort
 
 Os dois textos são leituras muito diferentes do Maquiavel. Lefort tá numa tradição da filosofia francesa muito associada a uma dissidência do marxismo francês; já McCormick é um tipo exemplar da filosofia política americana, com uma preocupação típica dessa escola, que é fazer proposição de experimentos mentais para ver a relação entre a normatividade das instituições e a política. A despeito das diferenças, ambos fazem uma leitura democrática do Maquiavel: ele pensa questões teóricas que dão insumos ao estudo da experiência democrática (nos termos de Lefort).
 
@@ -184,7 +184,7 @@ O que Maquiavel nos ensina de verdade é a lição de que há uma dimensão da c
 
 Ao mesmo tempo, a obra do Lefort também é sintoma de um momento de ruptura com a tradição marxista, sem ainda um caminho a ser seguido.
 
-#### McCormick
+### McCormick
 
 [Pettit] O problema republicano da política não é tornar uma sociedade mis igualitária, mas é promover a criação de espaços onde os indivíduos sejam capazes de agir politicamente. É a tentativa de contrastar uma teoria da ação coletiva republicada com uma teoria da ação coletiva liberal, porque a participação política ativa depende de uma concepção republicana. De certa forma, é isso que está por trás de toda essa teoria neorepublicana.
 
