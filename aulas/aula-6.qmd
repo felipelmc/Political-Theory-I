@@ -5,8 +5,6 @@ para gerar um resumo a partir da íntegra dos textos.
 
 ## LEFORT, Claude. O trabalho da Obra Maquiavel (Parte III, capítulo 7; parte IV, capítulo 2).
 
-O texto que você forneceu é composto por excertos de um trabalho de Claude Lefort sobre a obra de Maquiavel, especificamente uma seção sobre a interpretação de Antonio Gramsci ("A primeira figura da filosofia da práxis") e outra sobre a lógica da força em Maquiavel ("Sobre a lógica da força"). O material não está dividido em capítulos no sentido convencional dentro desses excertos, mas sim em duas grandes seções. Vou apresentar um resumo baseado nessas duas seções principais.
-
 ### **Seção 1: A primeira figura da filosofia da práxis: Uma interpretação de Antonio Gramsci**
 
 Esta seção explora e critica a interpretação marxista de Antonio Gramsci sobre a obra de Maquiavel.
@@ -167,3 +165,33 @@ A democracia representativa contemporânea sofre de dois defeitos: a **ausência
 Constituintes modernos abandonaram a especificidade de classe, talvez devido à crença num pluralismo emergente (Madison), à soberania unitária ou à fé na imprensa livre. No entanto, Machiavelli notou que as elites têm vantagens no controlo da informação. Institucionalizar as disparidades de poder pode tornar o povo mais consciente delas, fomentando a agitação necessária para uma república livre e estável, em contraste com a noção unitária de "povo soberano" que pode induzir isolamento das elites e inércia popular.
 
 Minipúblicos (assembleias de cidadãos, júris deliberativos) são sugeridos como equivalentes modernos das assembleias formais onde o povo deliberava
+
+### **Anotações de aula**
+
+#### Lefort
+
+Os dois textos são leituras muito diferentes do Maquiavel. Lefort tá numa tradição da filosofia francesa muito associada a uma dissidência do marxismo francês; já McCormick é um tipo exemplar da filosofia política americana, com uma preocupação típica dessa escola, que é fazer proposição de experimentos mentais para ver a relação entre a normatividade das instituições e a política. A despeito das diferenças, ambos fazem uma leitura democrática do Maquiavel: ele pensa questões teóricas que dão insumos ao estudo da experiência democrática (nos termos de Lefort).
+
+Na leitura do Gramsci, vemos um exemplo de crítica a uma forma complicada de ler um texto. O que ele diz é que a forma como Gramsci lê Maquiavel esvazia completamente o sentido original do texto de Maquiavel, tornando-o um antecessor do texto de fato importante, que é a obra marxiana. O que marca a leitura do Lefort é pensar uma tensão fundamental; no capítulo sobre a violência ele enfatiza essa tensão, que é entre uma certa compreensão normativa do mundo e a contingência do que o mundo é de fato. A democracia é um projeto inconcluso, em aberto, e resultado dessas discussões normativas do que a democracia deveria ser e, efetivamente, o mundo do conflito, que é a política. 
+
+Quando Gramsci vê n'_O Príncipe_ uma antecipação do marxismo, ele esgota o texto no papel que ele exerce, que é pensar a política nas suas contradições. Ao ver em Maquiavel uma antecipação da luta de classes e a figura do príncipe (que conduz o processo) em Lenin, ele esvazia o texto da sua riqueza teórica. Se a leitura é sempre a leitura da prolepse, o que se faz é ao mesmo tempo esvaziar Maquiavel e não enxergar exatamente o que há de original na reflexão maquiavélica e, também, condicionar o marxismo a uma leitura de Maquiavel.
+
+No outro capítulo que lemos, entendemos que, para Lefort, Maquiavel é inédito por ver o conflito como uma situação permanente do mundo político. Conflito é a condição permanente da existência, eventualmente negociada, da política. Não existe antecipação da filosofia da práxis marxista, mas sim a negação de um polo da ordem e um polo do conflito como dimensões estanques da política. A ideia é juntar as duas coisas.
+
+O que Lefort tenta fazer com sua leitura de Maquiavel é a rejeição da ideia de que existe uma forma da política que carrega, em si, a estabilidade. A ideia é que você não consegue criar uma engenharia institucional e social bons o suficiente para solucionar o problema do conflito político. Essa é a originalidade que Lefort encontra em Maquiavel: não existe solução perene para o conflito político. Não existe um horizonte de que o conflito político será solucionado. A ideia de que você tem um regime ou estrutura social que pode solucionar, na sua forma, o conflito, é uma ideia absolutamente recusada por Lefort, baseado em Maquiavel.
+
+O que Maquiavel nos ensina de verdade é a lição de que há uma dimensão da contingência que define aquilo que a gente chama de política. O que chamamos de política não é uma discussão sobre a forma adequada da ordem que superará a condição de conflito; antes, o grau zero da política é uma discussão sobre a contingência. Maquiavel reconhece que existe um grau zero da política que é a sua dimensão radicalmente contingente, e que não será superada por uma forma política normativamente melhor.
+
+Ao mesmo tempo, a obra do Lefort também é sintoma de um momento de ruptura com a tradição marxista, sem ainda um caminho a ser seguido.
+
+#### McCormick
+
+[Pettit] O problema republicano da política não é tornar uma sociedade mis igualitária, mas é promover a criação de espaços onde os indivíduos sejam capazes de agir politicamente. É a tentativa de contrastar uma teoria da ação coletiva republicada com uma teoria da ação coletiva liberal, porque a participação política ativa depende de uma concepção republicana. De certa forma, é isso que está por trás de toda essa teoria neorepublicana.
+
+McCormick olha para isso e diz: "Não é isso que é a teoria republicana do Maquiavel". Isso é a radicalização de uma certa concepção de uma democracia liberal que pensa a partir da ideia de que individuos são sujeitos de direito e que o exercício desse direito é que faz a política. Para McCormick, isso não foge da tradição liberal. O que define o corte de republicano de tradição maquiaveliana é o conflito político entre ricos e pobres; não se trata da participação política e tudo mais, mas sim a ideia de que a política é o conflito entre ricos e pobres. Nesse contexto, os pobres deveriam ser capazes de vetar as decisões resultantes do poder do dinheiro naquela sociedade.
+
+Num certo sentido, há uma tradição que vê o início do modelo liberal em Hobbes -- a ideia do que fundamenta a política legítima é a autorização individual, e que permite que a vida dos indivíduos seja garantida. [Paulo acha isso esticar o argumento demais]. No entanto, para McCormick, devemos pensar além disso, incluindo a possibilidade de contestação do poder constituído. A representação, de fato, é um mecanismo clássico de representação; mas, recuperar uma teoria democrática republicana não quer dizer abrir espaços de participação, porque no fim das contas é a autorização que define quem toma as decisões -- a política pública inevitavelmente vem do representante. Então, precisamos pensar, na verdade, e em espaços de contestação. O consenso produzido pela representação política tradicional precisa ser contestada pelo dissenso. Para além da produção de consenso da democracia, precisamos pensar em espaços de contestação para pensar fora do _frame_ da democracia liberal.
+
+Pensar isso maquiavelianamente significa pensar em espaços que não permitam que os mais ricos se apossem do governo. Maquiavel, segundo McCormick, não pensa uma tradição republicana que se casa tranquilamente com a tradição liberal. A preocupação não é produzir equilíbrio institucional. O objetivo é que os representados sejam capazes de vetar as decisões dos seus representantes -- uma maneira efetiva de bloquear o ação do dinheiro sobre a política, permitindo agência direta.
+
+Maquiavel, diferente de Aristóteles, entende que as formas de governo não equilibram o conflito, mas o canalizam para as instituições. Enquanto as instituições são capazes de canalizar o conflito e permitir um ambiente adequado para a discussão, as pessoas não se matam. A estabilidade não vem de um "justo meio", mas da capacidade de canalizar o conflito. Esse é o ponto do Maquiavel que McCormick traz para tensionar a tendência da teoria política americana de produzir normatividade sobre tudo. 
