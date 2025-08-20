@@ -1,4 +1,10 @@
-# Maquiavel II
+---
+title: "Maquiavel II"
+author:
+  - name: Felipe Lamarca
+    email: felipelamarca@iesp.uerj.br
+fontsize: 12pt
+---
 
 Confesso que, para esta aula, não tive tempo de ler cada um dos textos no detalhe. Para facilitar, utilizei o NotebookLM 
 para gerar um resumo a partir da íntegra dos textos.

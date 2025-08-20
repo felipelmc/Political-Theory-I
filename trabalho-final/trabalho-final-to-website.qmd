@@ -3,12 +3,11 @@ title: "_Critérios do 'bom governo'_: ciência, teoria e normatividade"
 author: "Felipe Lamarca"
 fontsize: 12pt
 linestretch: 1.25
-abstract: "Este trabalho parte de uma discussão sobre o lugar da teoria política na ciência política. Na primeira parte, reviso debates clássicos sobre cientificidade e objetividade na análise do fenômeno político, tendo por eixos a concepção de ciência como acoplamento entre teoria e pesquisa empírica [@sartori1974; @box1976] e as críticas à suposição de neutralidade observacional, que reforçam o papel constitutivo da teoria na própria descrição do mundo político [@warren1989]. Em seguida, contrasto abordagens contextualistas e histórico-conceituais [@koselleck2006; @skinner2002; @pocock2003] com defesas contemporâneas da normatividade como traço intrínseco da disciplina [@kelly2011; @waldron2016; @rawls2016]. A segunda parte examina a ideia de bom governo para Aristóteles e Maquiavel: em Aristóteles, a observação de constituições fundamenta a preferência pela _politeía_ como forma mista que equilibra ricos e pobres, reduz a _stásis_ e orienta o governo ao bem comum [@aristoteles2021]; em Maquiavel, a história romana e casos comparados sustentam a república como processamento institucional do conflito e preservação da liberdade como não-dominação [@maquiavel2007; @lefort1986].
-"
+abstract: "Este trabalho parte de uma discussão sobre o lugar da teoria política na ciência política. Na primeira parte, reviso debates clássicos sobre cientificidade e objetividade na análise do fenômeno político, tendo por eixos a concepção de ciência como acoplamento entre teoria e pesquisa empírica [@sartori1974; @box1976] e as críticas à suposição de neutralidade observacional, que reforçam o papel constitutivo da teoria na própria descrição do mundo político [@warren1989]. Em seguida, contrasto abordagens contextualistas e histórico-conceituais [@koselleck2006; @skinner2002; @pocock2003] com defesas contemporâneas da normatividade como traço intrínseco da disciplina [@kelly2011; @waldron2016; @rawls2016]. A segunda parte examina a ideia de bom governo para Aristóteles e Maquiavel: em Aristóteles, a observação de constituições fundamenta a preferência pela _politeía_ como forma mista que equilibra ricos e pobres, reduz a _stásis_ e orienta o governo ao bem comum [@aristoteles2021]; em Maquiavel, a história romana e casos comparados sustentam a república como processamento institucional do conflito e preservação da liberdade como não-dominação [@maquiavel2007; @lefort1986]."
 bibliography: "references.bib"
 ---
 
-# Introdução
+# Introdução {.unnumbered}
 
 Este trabalho começa examinando a tensão entre a ambição explicativa da ciência política e a natureza inevitavelmente normativa da reflexão política. De saída, parto da ideia bastante consolidada de que ciência é teoria articulada em um _loop_ com a pesquisa empírica, onde hipóteses são deduzidas, confrontadas com dados e, quando necessário, revisadas [@sartori1974; @box1976].
 
@@ -20,7 +19,7 @@ Por outro lado, há quem sustente que a reconstrução de usos e contextos é in
 
 Este trabalho se divide em três seções, além desta introdução. Na seção seguinte, “O lugar da Teoria Política”, detalho os critérios de cientificidade e a crítica à neutralidade observacional, discutindo implicações para a pesquisa empírica e explicação causal [@sartori1974; @box1976; @warren1989]. Em “Dois clássicos: Aristóteles e Maquiavel”, examino como suas arquiteturas conceituais -- a tipologia de regimes e a defesa da forma mista em Aristóteles; a república como processamento institucional do conflito e a liberdade como não-dominação em Maquiavel -- iluminam a relação entre descrição e normatividade [@aristoteles2021; @maquiavel2007]. A opção por Aristóteles e Maquiavel decorre diretamente do quadro acima: ambos combinam algum grau de empiria com juízos explicitamente normativos para proporem a definição de um bom governo. Não é meu objetivo validá-los como “cientistas políticos”; interessa tornar explícita a arquitetura conceitual com que derivam critérios normativos de exemplos e indicar como tais critérios podem ser operacionalizados por meio de *proxies* observáveis. Termino com algumas considerações finais e retomando as principais discussões do trabalho.
 
-# O lugar da Teoria Política
+# O lugar da Teoria Política {.unnumbered}
 
 A definição _do que é_ teoria política passa, frequentemente, por uma distinção da ciência política como um campo de conhecimento capaz de elaborar conhecimento científico sobre o fenômeno político. É verdade que a ideia de _conhecimento científico_ por muito tempo negou às ciências humanas, em geral, e à ciência política, em particular, o status de ciência. Isso, sobretudo, porque a ideia de cientificidade pressupunha a aplicação do método newtoniano, que por sua vez pressupõe a capacidade de criação de leis gerais a partir de dados empiricamente observáveis.
 
@@ -70,7 +69,8 @@ O ponto central, de fato, é indicar que a reflexão política é indissociável
 
 Não por acaso, essas ideias são inspiradas em larga medida na teoria normativa de John Rawls. Veja: a pergunta primordial de @rawls2016 é sobre como produzir uma ordem justa, isto é, uma ordem que aloque recursos de maneira equitativa. Trata-se, evidentemente, de uma questão que não pode ser respondida fora de uma abordagem fundamentalmente normativa. É sobretudo nesse aspecto que autores como @kelly2011 e @waldron2016 insistem que é impossível pensar teoria política fora de sua dimensão normativa: se estamos avaliando e distinguindo processos políticos, por exemplo, entre bons e ruins, conflituosos ou não conflituosos, então o ato é normativo em essência.
 
-# Dois clássicos: Aristóteles e Maquiavel
+# Dois clássicos: Aristóteles e Maquiavel{.unnumbered}
+
 Esta seção examina, de modo comparativo, o que conta como _bom governo_ em Aristóteles e Maquiavel e com que evidências tais juízos se sustentam. Não se trata de anacronicamente apresentá-los como "cientistas políticos", mas de explicitar a arquitetura conceitual derivada de critérios normativos, exemplos históricos e constituições. Em Aristóteles, tomo A Política [@aristoteles2021] para reconstruir a tipologia de regimes segundo dois eixos -- quem detém o mando e a finalidade do poder -- e mostrar por que a _politeía_ emerge como forma mista voltada à estabilidade e ao bem comum. Em Maquiavel, recorro a O Príncipe e aos Discursos sobre a Primeira Década de Tito Lívio [@maquiavel2010; @maquiavel2007] para discutir a ideia de bom governo como aquele que preserva a liberdade como não-dominação ao processar institucionalmente o conflito. 
 
 A reflexão sobre a política em Aristóteles parte de dados empíricos -- mais especificamente, parte da observação de como as cidades-estado funcionam, ou seja, da observação de suas constituições. Daí derivam a tipologia aristotélica das formas de governo e suas versões degeneradas:
@@ -109,7 +109,7 @@ Para @lefort1986, a originalidade de Maquiavel está em conceber o conflito como
 
 A leitura que @lefort1986 faz de Maquiavel procura combater a crença de que há uma forma política que carrega, em si mesma, a estabilidade. O argumento é que, na prática, é impossível criar uma engenharia institucional e social boas o suficiente para solucionar todos os problemas do conflito político de modo permanente; no melhor dos casos, ela o processa e o reinscreve sob novas regras, até que novas circunstâncias voltem a excedê-las. A questão central é que a estabilidade não é uma propriedade intrínseca a um ou outro arranjo institucional [@lefort1986].
 
-# Considerações finais
+# Considerações finais {.unnumbered}
 
 A investigação do político não se faz a partir de uma observação neutra, mas de lentes teóricas que recortam o objeto e selecionam *proxies* [@waldron2016]. Evidentemente, isso não invalida a ambição explicativa da ciência política, mas a requalifica: a teoria é uma condição de possibilidade da pesquisa empírica. 
 
@@ -118,9 +118,7 @@ A leitura dos dois clássicos confirma esse ponto: ambos derivam princípios nor
 Esse esforço não deve ser confundido com a tentativa de conferir cientificidade a Aristóteles ou Maquiavel. Trata-se, com alguma licença poética, de um paralelo metodológico: explicitar critérios normativos, traduzi-los em *proxies* observáveis e testar seus efeitos, mantendo aberto o circuito entre reconstrução conceitual e avaliação empírica. Assim evitamos o anacronismo e ganhamos clareza sobre as escolhas que orientam a observação e os compromissos normativos da teoria -- isto é, que "bem comum" perseguimos, que formas de institucionalização do conflito aceitamos, que indicadores tomamos por liberdade ou estabilidade. O objetivo não é validar os clássicos como precursores da ciência, mas aproveitar o que suas arquiteturas conceituais ainda oferecem de heurístico para pesquisas contemporâneas.
 
 
-{{< pagebreak >}}
-
-# Referências bibliográficas
+# Referências bibliográficas {.unnumbered}
 
 ::: {#refs}
 :::

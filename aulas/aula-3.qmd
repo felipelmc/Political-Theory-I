@@ -1,3 +1,11 @@
+---
+title: "Teoria Política e História das Ideias Políticas"
+author:
+  - name: Felipe Lamarca
+    email: felipelamarca@iesp.uerj.br
+fontsize: 12pt
+---
+
 # Teoria Política e normatividade
 
 ## Anotações das leituras

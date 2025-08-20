@@ -1,0 +1,21 @@
+---
+title: "Rousseau"
+author:
+  - name: Felipe Lamarca
+    email: felipelamarca@iesp.uerj.br
+fontsize: 12pt
+---
+
+## Anotações de aula
+
+A representação desde sempre é pensada como um mecanismo de delegação. Para Rousseau, a representação é uma forma de alienação em relação à tomada de decisão.
+
+Governo pode ser aristocrático. Nesse caso, escolhemos os melhores para gerir bem o que o soberano (que emana da vontade geral) decidiu. Rousseau, portanto, não nega que existem diferenças entre as pessoas e que algumas são melhores que outras; o ponto, na realidade, é que essas diferenças não podem entrar como pressupostos da constituição.
+
+"O ato que institui o governo não é um contrato, mas uma lei" -- o governo é simplesmente o produto do soberano. O soberano decide quando se reunir, e quando ele se reune, ao governo não cabe qualquer função. O ato de tomada de decisão do soberano é a lei. O soberano pode discricionariamente, por exemplo, manter ou trocar a forma de governo.
+
+> O soberano não é personificado, em Rousseau, porque a personificação pressupõe alienação. O soberano é o conjunto de indivíduos que compõem aquela sociedade. À magistratura cabe simplesmente aplicar as leis determinadas pelo soberano.
+
+Rousseau insiste que a vontade geral é possível apenas no horizonte de unanimidade. Não pode haver muita deliberação, porque muita deliberação pressupõe muita divergência; isso, na prática, põe sob risco a própria possibilidade da existência da comunidade. ELe não nega que essas modalidades (sem unanimidade) existem no mundo, aquelas que são regidas pela violência. Mas, se quisermos pensar em República, esse não é o caminho.
+
+O cidadão da República Rousseauniana é um fanático: se eu voto de acordo com os meus interesses particulares e eu perco a eleição, na prática eu apenas me enganei. Na verdade, eu votei contra a vontade geral e, na prática, contra a minha própria vontade.

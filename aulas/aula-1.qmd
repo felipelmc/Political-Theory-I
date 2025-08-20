@@ -1,4 +1,10 @@
-# Teoria Política e Ciência Política
+---
+title: "Teoria Política e Ciência Política"
+author:
+  - name: Felipe Lamarca
+    email: felipelamarca@iesp.uerj.br
+fontsize: 12pt
+---
 
 ## Anotações de aula
 

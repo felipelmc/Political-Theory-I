@@ -1,4 +1,10 @@
-# Maquiavel I
+---
+title: "Maquiavel I"
+author:
+  - name: Felipe Lamarca
+    email: felipelamarca@iesp.uerj.br
+fontsize: 12pt
+---
 
 ## Anotações das leituras
 
